@@ -1,3 +1,3 @@
-# co2globalserviceslimited
+# Chimex
 
-Official Website of CO2 Globl Services Limited repo and other files
+Official Portfolio of Okeke Chimezie Glory repo and other files
